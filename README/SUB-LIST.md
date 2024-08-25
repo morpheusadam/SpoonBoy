@@ -436,6 +436,14 @@ https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscr
 
 
 
+| Name | Link | Last Update |
+|------|------|-------------|
+| all.txt | [all.txt](https://cdn.jsdelivr.net/gh/cry0ice/genode@main/public/all.txt) | - |
+| vmess.txt | [vmess.txt](https://cdn.jsdelivr.net/gh/cry0ice/genode@main/public/vmess.txt) | - |
+| trojan.txt | [trojan.txt](https://cdn.jsdelivr.net/gh/cry0ice/genode@main/public/trojan.txt) | - |
+| ss.txt | [ss.txt](https://cdn.jsdelivr.net/gh/cry0ice/genode@main/public/ss.txt) | - |
+| ssr.txt | [ssr.txt](https://cdn.jsdelivr.net/gh/cry0ice/genode@main/public/ssr.txt) | - |
+
 ++++++++++++++++++
 
 ## mermeroo/V2RAY-and-CLASH-Subscription-Links/

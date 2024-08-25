@@ -416,3 +416,28 @@
 2024-08-25 19:57:06.1178-INFO MyAppExit Begin
 2024-08-25 19:57:06.1754-INFO MyAppExit End
 2024-08-25 19:57:06.2233-INFO OnExit
+2024-08-25 20:01:01.9099-INFO v2rayN start up | v2rayN - V6.43 - 2024/08/25 | C:\Applications\SpooBboy\v2rayN.exe
+2024-08-25 20:02:02.3677-INFO UpdateTaskRunSubscription
+2024-08-25 20:03:02.3602-INFO UpdateTaskRunGeo
+2024-08-25 20:03:13.0973-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:03:13.0973-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:03:13.0973-ERROR System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+2024-08-25 20:03:43.6723-DEBUG The operation has timed out.,The operation has timed out.
+2024-08-25 20:03:43.6723-DEBUG    at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:05:05.7580-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:05:05.7580-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:05:05.7580-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.

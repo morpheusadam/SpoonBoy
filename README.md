@@ -15,18 +15,18 @@
 
 | توضیحات | لینک |
 |---------|------|
-| لیست دانلود تمامی برنامه‌ها برای استفاده از کانفیگ v2ray (windows, linux, mac, ios, android) | [README/CLIENTS.md](CLIENTS.md) |
-| مرتب‌سازی بر اساس کشور برای استفاده‌های محدود | [README/CUNITRIES.md](CUNITRIES.md) |
-| نودهای v2ray برای ساخت کانفیگ | [README/NODES.md](NODES.md) |
-| قوی‌ترین لیست سابسکریپشن v2ray | [README/SUB-LIST.md](SUB-LIST.md) |
-| چنل‌های تلگرام پخش‌کننده v2ray برای ساخت v2raycollector | [README/TELEGRAM-CHANELS.md](TELEGRAM-CHANELS.md) |
+| لیست دانلود تمامی برنامه‌ها برای استفاده از کانفیگ v2ray (windows, linux, mac, ios, android) | [README/CLIENTS.md](README/CLIENTS.md) |
+| مرتب‌سازی بر اساس کشور برای استفاده‌های محدود | [README/CUNITRIES.md](README/CUNITRIES.md) |
+| نودهای v2ray برای ساخت کانفیگ | [README/NODES.md](README/NODES.md) |
+| قوی‌ترین لیست سابسکریپشن v2ray | [README/SUB-LIST.md](README/SUB-LIST.md) |
+| چنل‌های تلگرام پخش‌کننده v2ray برای ساخت v2raycollector | [README/TELEGRAM-CHANELS.md](README/TELEGRAM-CHANELS.md) |
 
 
 ### انتخاب زبان
-- [README/README_EN.md](انگلیسی)
-- [README/README_KUR.md](کوردی)
-- [README/README_ZH.md](چینی)
-- [README/README_FA.md](فارسی)
+- [انگلیسی](README/README_EN.md)
+- [کوردی](README/README_KUR.md)
+- [چینی](README/README_ZH.md)
+- [فارسی](README/README_FA.md)
 
 ### ارتباطات
 - [LinkedIn](https://www.linkedin.com/in/hesam-ahmadpour)
