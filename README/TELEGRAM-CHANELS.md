@@ -1,4 +1,10 @@
 
+# List of Telegram Channels for V2RAY
+
+This document provides a list of Telegram channels that are useful for V2RAY users. These channels offer various configurations, updates, and resources related to V2RAY.
+
+
+
 ## Channels Used
 
 | Channel Name | Channel Link | Channel Name | Channel Link |
@@ -72,27 +78,25 @@
 
 
 
- $telegram chanels
-   "jiedian_share",
-  "dingyue_center",
-  "zerobaipiao",
-  "freeV2rayi",
-  "aifenxiang2020",
-  "ShareCentrePro",
-  "mftizi",
-  "jiuJieD",
-  "hkaa0",
-  "V2ray60",
-  "FreeV2rays",
-  "JiedianSsr",
-  "jiedianF",
-  "wxdy666",
-  "Socks5_bott",
-  "MFJD666",
-  "freevpnjd",
-  "v2ray_configs_pool"
 
-
-
-
+| Telegram Channels | Link |
+|-------------------|------|
+| jiedian_share     | [@jiedian_share](https://t.me/jiedian_share) |
+| dingyue_center    | [@dingyue_center](https://t.me/dingyue_center) |
+| zerobaipiao       | [@zerobaipiao](https://t.me/zerobaipiao) |
+| freeV2rayi        | [@freeV2rayi](https://t.me/freeV2rayi) |
+| aifenxiang2020    | [@aifenxiang2020](https://t.me/aifenxiang2020) |
+| ShareCentrePro    | [@ShareCentrePro](https://t.me/ShareCentrePro) |
+| mftizi            | [@mftizi](https://t.me/mftizi) |
+| jiuJieD           | [@jiuJieD](https://t.me/jiuJieD) |
+| hkaa0             | [@hkaa0](https://t.me/hkaa0) |
+| V2ray60           | [@V2ray60](https://t.me/V2ray60) |
+| FreeV2rays        | [@FreeV2rays](https://t.me/FreeV2rays) |
+| JiedianSsr        | [@JiedianSsr](https://t.me/JiedianSsr) |
+| jiedianF          | [@jiedianF](https://t.me/jiedianF) |
+| wxdy666           | [@wxdy666](https://t.me/wxdy666) |
+| Socks5_bott       | [@Socks5_bott](https://t.me/Socks5_bott) |
+| MFJD666           | [@MFJD666](https://t.me/MFJD666) |
+| freevpnjd         | [@freevpnjd](https://t.me/freevpnjd) |
+| v2ray_configs_pool| [@v2ray_configs_pool](https://t.me/v2ray_configs_pool) |
   

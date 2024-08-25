@@ -1,73 +1,78 @@
-# V2RayN桌面软件，具有针对伊朗的最佳设置，带有Singbox Plus内核 和 Xray core
+<p align="center">
+  <img src="./Images/nospoon.jpg" alt="nospoon">
+</p>
 
+<p align="center">
+  <img src="./Images/Screenshot%202024-08-25%20204304.png" alt="Screenshot">
+</p>
 
-|Document language ：|Link|
-----|----
-|ایران|<a href="./README.md">مستندات فارسی</a>|
-|English|<a href="./README_EN.md">English Document</a>|
-|中文|<a href="./README_ZH.md">中文文档</a>|
-|Türkiye|<a href="./README_TUR.md">Türkçe Dokümantasyon</a>|
+V2RAY 应用程序提供了最全面的订阅包。该包包括以下内容：
 
+- **按国家分类**：此功能允许用户访问多个国家的各种服务器。这有助于优化连接速度和安全性，提供更好的用户体验。
+- **基于协议**：支持各种协议，如 VMess、VLESS、Shadowsocks 和 Trojan，为用户提供更多的灵活性。这些协议各有其优点和特定的使用场景，用户可以根据需要选择。
+- **基于社交网络**：优化设置以高速和安全地访问流行的社交网络。此功能允许用户在不担心限制和过滤的情况下访问社交网络。
+- **包含最全面的开放端口**：使用开放端口绕过伊朗和中国等国家的限制和过滤。此功能允许用户轻松绕过互联网限制并访问所需内容。
 
-![V2RaN](./images/V2RaN.jpg)
+该应用程序旨在提供最佳的用户体验和高安全性。它包括为用户优化的默认设置，易于使用。此外，该应用程序设计为能够快速适应互联网环境和用户需求的变化。
 
-### 在 Config 中所做的更改：
+应用程序的主要功能包括：
 
-1- 将默认语言更改为英语
+1. **简单且用户友好的界面**：即使是初学者用户也能轻松使用。
+2. **支持多平台**：可在各种操作系统上使用，包括 Windows、Linux、macOS、iOS 和 Android。
+3. **定期更新**：定期更新以提高应用程序的性能和安全性。
+4. **技术支持**：为用户提供技术支持，以解决问题和回答问题。
 
-2- 将默认指纹和用户代理设置为Firefox
+该应用程序使用先进的技术和安全协议，为用户提供了无与伦比的自由和无限制的互联网体验。
 
-3- 默认启用 Fragment
+## 使用指南
 
-4- 伊朗站点的路由设置
-
-5-激活与系统兼容的主题并显示下载和上传速度
-
-6- 添加子链接和五个 Warp 服务器
-
-7-启动时最少的软件激活
-
-
-### 如何使用
- - 首先，从以下链接下载并解压 V2RayN 的 32 位或 64 位版本之一：
-
-```
-https://github.com/2dust/v2rayN/releases
+### 1. 克隆应用程序
+首先，从 GitHub 仓库克隆应用程序：
+```bash
+git clone https://github.com/morpheusadam/SpooBboy
 ```
 
- - 然后下载guiNConfig.json和guiNDB.db文件，并将其复制到 v2rayN > guiConfigs 路径并运行软件。
+### 2. 进入应用程序
+克隆后，进入应用程序。最新的订阅和 VPN 更新已准备好使用。
 
+### 3. 更新订阅
+为了更好地使用该应用程序，您可以使用以下文件：
+- [README/SUB-LIST.md](README/SUB-LIST.md)
 
+复制订阅并在应用程序中，从顶部菜单进入 `SUBSCRIPTION GROUP -> UPDATE SUBSCRIPTION` 并更新新的订阅。
 
-### V2RayN 软件需要下载 X-ray 核心和 Singbox 才能运行，建议从以下链接下载相关文件并复制到 v2rayN > bin 路径：
+### 4. 游戏和 Spotify 的订阅
+要访问特定国家的游戏和 Spotify 订阅，请使用以下文件：
+- [README/CUNITRIES.md](README/CUNITRIES.md)
 
+### 5. 创建 v2raycollector 的 Telegram 频道列表
+创建 v2raycollector 的 Telegram 频道列表可在以下文件中找到：
+- [README/TELEGRAM-CHANELS.md](README/TELEGRAM-CHANELS.md)
 
-- 从下面的链接下载 sing-box-plus 内核，并将其放在 sing_box 文件夹下的 bin 文件夹中。
+### 6. 创建 v2raycollector 的节点列表
+创建 v2raycollector 的节点列表也可在以下文件中找到：
+- [README/NODES.md](README/NODES.md)
 
+### 7. 创建和使用 v2ray 配置的应用程序列表
+创建和使用 v2ray 配置所需的应用程序列表可在以下文件中找到：
+- [README/CLIENTS.md](README/CLIENTS.md)
 
-```
-https://github.com/kyochikuto/sing-box-plus/releases
-```
+### README 文件链接
 
-- 我们将对 X 射线核心执行上述步骤。
+| 描述 | 链接 |
+|------|------|
+| 使用 v2ray 配置的所有应用程序列表（Windows、Linux、macOS、iOS、Android） | [README/CLIENTS.md](README/CLIENTS.md) |
+| 最强的 v2ray 订阅列表 | [README/SUB-LIST.md](README/SUB-LIST.md) |
+| 按国家分类的有限使用 | [README/CUNITRIES.md](README/CUNITRIES.md) |
+| 创建配置的 v2ray 节点 | [README/NODES.md](README/NODES.md) |
+| 广播 v2ray 以创建 v2raycollector 的 Telegram 频道 | [README/TELEGRAM-CHANELS.md](README/TELEGRAM-CHANELS.md) |
 
+### 语言选择
+- [英语](README/README_EN.md)
+- [库尔德语](README/README_KUR.md)
+- [中文](README/README_ZH.md)
+- [波斯语](README/README_FA.md)
 
-```
-https://github.com/GFW-knocker/Xray-core/releases
-```
-
-
-### 为了方便起见，我执行了这些步骤，并将现成的文件放在发布部分进行下载，您可以下载并使用它。
-
-
-要更新以前的版本，只需下载update.zip文件并将其替换到以前的文件夹中即可。
-
-**警告：如果您有子链接或个人配置，请务必备份 !!**
-
-
-
-# 盼望自由 🕊️
-
-### به یاد دوستای عزیزمون سگارو و یوسف 
-### 为了纪念我们亲爱的朋友塞加罗和优素福
-
+### 联系方式
+- [LinkedIn](https://www.linkedin.com/in/hesam-ahmadpour)
+- [Telegram](https://t.me/morpheusadam)
