@@ -27,15 +27,18 @@
 | providers | [providers](https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/master/providers/providers) | - |
 | providers64 | [providers64](https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/master/providers/providers64) | - |
 
-## teknovpnhub/v2ray-subscription
+ ## teknovpnhub/v2ray-subscription
 ### SUBSCRIPTION
 | Name | Link | Last Update |
 |------|------|-------------|
 | v2ray_subscription.txt | [v2ray_subscription.txt](https://github.com/teknovpnhub/v2ray-subscription/blob/main/v2ray_subscription.txt) | - |
 
-#firefoxmmx2/v2rayshare_subcription
-https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/vray_sub.txt
-https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml
+## firefoxmmx2/v2rayshare_subcription
+### SUBSCRIPTION
+| Name | Link | Last Update |
+|------|------|-------------|
+| vray_sub.txt | [vray_sub.txt](https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/vray_sub.txt) | - |
+| clash_sub.yaml | [clash_sub.yaml](https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml) | - |
 
 ## firefoxmmx2/v2rayshare_subcription
 ### SUBSCRIPTION
