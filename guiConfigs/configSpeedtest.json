@@ -1,0 +1,605 @@
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "http10829",
+      "port": 10829,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10830",
+      "port": 10830,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10831",
+      "port": 10831,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10832",
+      "port": 10832,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10833",
+      "port": 10833,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10834",
+      "port": 10834,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10835",
+      "port": 10835,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10836",
+      "port": 10836,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10837",
+      "port": 10837,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10838",
+      "port": 10838,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
+    },
+    {
+      "tag": "proxy10829",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "bpbtest.neroce7654.workers.dev",
+            "port": 80,
+            "users": [
+              {
+                "id": "8b9e2e10-a566-40c0-abae-d365a3925170",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": "/BH57O6lzMGGNOxFs?ed=2560",
+          "headers": {
+            "Host": "BpBTest.NeROCe7654.wOrKERS.dEv",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10830",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "108.162.196.0",
+            "port": 443,
+            "users": [
+              {
+                "id": "962a733d-2614-0b9b-7ffe-9ac92ffea8eb",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "subfarid2.sojavat516.WORkErs.Dev",
+          "alpn": [
+            "h2"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/ahmedquran19.xyz:443/current_time",
+          "headers": {
+            "Host": "subfarid2.sojavat516.WORkErs.Dev",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10831",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "162.159.160.34",
+            "port": 443,
+            "users": [
+              {
+                "id": "1052f24e-7b09-45eb-b0c5-d858eb124192",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "serverless-vpn-test8585.5843d52af7.WORkErs.DeV",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/glweidf.cfd/linkws",
+          "headers": {
+            "Host": "serverless-vpn-test8585.5843d52af7.WORkErs.DeV",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10832",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.17.143.199",
+            "port": 443,
+            "users": [
+              {
+                "id": "1052f24e-7b09-45eb-b0c5-d858eb124192",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "glweidf.cfd",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "android",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/linkws",
+          "headers": {
+            "Host": "glweidf.cfd",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10833",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "185.18.250.78",
+            "port": 443,
+            "users": [
+              {
+                "id": "2c091d43-9eca-4677-b04a-f56c9d7b606b",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "subfarid2.sojavat516.worKeRS.DeV",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "randomized",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/auto.minusober.com:443/auto",
+          "headers": {
+            "Host": "subfarid2.sojavat516.worKeRS.DeV",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10834",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.175.56",
+            "port": 443,
+            "users": [
+              {
+                "id": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "obdii.cfd",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "randomized",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/linkws",
+          "headers": {
+            "Host": "obdii.cfd",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10835",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.22.57.181",
+            "port": 443,
+            "users": [
+              {
+                "id": "a1655f51-1e20-4a92-8a11-b7ca30a7a353",
+                "alterId": 1,
+                "email": "t@t.tt",
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "serverless-vpn-test8585.5843d52af7.woRKERs.deV",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/afrhms07.xfixedfloat.cfd/linkws",
+          "headers": {
+            "Host": "serverless-vpn-test8585.5843d52af7.woRKERs.deV",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10836",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "hidd2.afsharidempire.uk",
+            "port": 443,
+            "users": [
+              {
+                "id": "19c80ce9-0935-41b9-b077-277621316a87",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "hidd2.afsharidempire.uk",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/liUxUGJTGoPjd07ui73LZgwx8s",
+          "headers": {
+            "Host": "hidd2.afsharidempire.uk",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10837",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "www.speedtest.net",
+            "port": 443,
+            "users": [
+              {
+                "id": "8b9e2e10-a566-40c0-abae-d365a3925170",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "BPBtEst.NeRocE7654.WOrkERS.Dev",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "randomized",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/aeFVTgC25Z8BvmZH?ed=2560",
+          "headers": {
+            "Host": "bpbteSt.NeROCe7654.WOrkers.dev",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10838",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "172.67.219.194",
+            "port": 443,
+            "users": [
+              {
+                "id": "b321fd5d-e6ec-4293-a644-164e3885f52e",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "adenc36v.xtooltech.cfd",
+          "alpn": [
+            "h2"
+          ],
+          "fingerprint": "ios",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/linkws",
+          "headers": {
+            "Host": "adenc36v.xtooltech.cfd",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10829"
+        ],
+        "outboundTag": "proxy10829"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10830"
+        ],
+        "outboundTag": "proxy10830"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10831"
+        ],
+        "outboundTag": "proxy10831"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10832"
+        ],
+        "outboundTag": "proxy10832"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10833"
+        ],
+        "outboundTag": "proxy10833"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10834"
+        ],
+        "outboundTag": "proxy10834"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10835"
+        ],
+        "outboundTag": "proxy10835"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10836"
+        ],
+        "outboundTag": "proxy10836"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10837"
+        ],
+        "outboundTag": "proxy10837"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10838"
+        ],
+        "outboundTag": "proxy10838"
+      }
+    ]
+  }
+}

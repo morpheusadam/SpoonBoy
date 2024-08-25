@@ -1,0 +1,18 @@
+# لینک به فایل‌های README
+
+- [README.md](README.md)
+- [README_EN.md](README_EN.md)
+- [README_KUR.md](README_KUR.md)
+- [README_ZH.md](README_ZH.md)
+- [clients.md](clients.md)
+- [cuntires.md](cuntires.md)
+- [custom-singbox-sub.json](custom-singbox-sub.json)
+- [custom-xray-sub.json](custom-xray-sub.json)
+- [LICENSE](LICENSE)
+- [nodes.md](nodes.md)
+- [README_FA.md](README_FA.md)
+- [README_KUR.md](README_KUR.md)
+- [README_ZH.md](README_ZH.md)
+- [SingBox-Rules.json](SingBox-Rules.json)
+- [sub-list.md](sub-list.md)
+- [telegram-chanels.md](telegram-chanels.md)

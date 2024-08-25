@@ -1,0 +1,418 @@
+2024-08-25 01:45:00.0141-INFO MyAppExit Begin
+2024-08-25 01:45:00.3293-INFO MyAppExit End
+2024-08-25 01:45:00.4408-INFO OnExit
+2024-08-25 01:45:04.0655-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Applications\v2rayN-With-Core\v2rayN.exe
+2024-08-25 01:46:06.3049-INFO UpdateTaskRunSubscription
+2024-08-25 01:47:06.3061-INFO UpdateTaskRunGeo
+2024-08-25 01:52:32.5354-INFO MyAppExit Begin
+2024-08-25 01:52:32.7826-INFO MyAppExit End
+2024-08-25 01:52:32.8751-INFO OnExit
+2024-08-25 02:00:20.3570-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Applications\v2rayN-With-Core\v2rayN.exe
+2024-08-25 02:01:23.0534-INFO UpdateTaskRunSubscription
+2024-08-25 02:02:23.0552-INFO UpdateTaskRunGeo
+2024-08-25 02:07:13.0058-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0221-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0221-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0221-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0221-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0221-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0221-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0221-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0221-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0221-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0221-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0221-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0221-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:07:13.0254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:07:13.0254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:37:53.3520-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:37:53.3520-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:37:56.3708-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:37:56.3708-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:56:27.3940-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:56:27.3940-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 02:56:29.9734-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 02:56:29.9734-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:27:47.0201-DEBUG Response status code does not indicate success: 404 (Not Found).,Response status code does not indicate success: 404 (Not Found).
+2024-08-25 03:27:47.0201-DEBUG    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:27:47.4805-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:27:47.4833-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:27:47.8906-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:27:47.8906-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:28:07.6056-DEBUG Response status code does not indicate success: 404 (Not Found).,Response status code does not indicate success: 404 (Not Found).
+2024-08-25 03:28:07.6056-DEBUG    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:28:08.2390-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:28:08.2390-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:28:08.6795-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:28:08.6795-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:28:09.0083-DEBUG Response status code does not indicate success: 404 (Not Found).,Response status code does not indicate success: 404 (Not Found).
+2024-08-25 03:28:09.0083-DEBUG    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:28:09.4484-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:28:09.4484-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:28:09.9493-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:28:09.9493-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:28:10.0411-DEBUG Response status code does not indicate success: 404 (Not Found).,Response status code does not indicate success: 404 (Not Found).
+2024-08-25 03:28:10.0411-DEBUG    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:28:10.5187-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:28:10.5187-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:28:10.9285-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:28:10.9285-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:30:53.9118-DEBUG Response status code does not indicate success: 404 (Not Found).,Response status code does not indicate success: 404 (Not Found).
+2024-08-25 03:30:53.9118-DEBUG    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:30:54.3908-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:30:54.3908-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:30:54.8011-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:30:54.8011-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:42:52.5228-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5228-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5340-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5340-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5340-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5340-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5340-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5340-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5340-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5340-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5340-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5340-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5340-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5340-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5340-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5340-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:42:52.5438-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:42:52.5438-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:53:26.8502-DEBUG Response status code does not indicate success: 404 (Not Found).,Response status code does not indicate success: 404 (Not Found).
+2024-08-25 03:53:26.8502-DEBUG    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:53:27.2556-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:53:27.2556-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:53:27.6814-DEBUG The remote server returned an error: (404) Not Found.,The remote server returned an error: (404) Not Found.
+2024-08-25 03:53:27.6814-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 03:53:30.1520-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:53:30.1520-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:53:30.3366-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:53:30.3366-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 03:53:32.5098-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 03:53:32.5098-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 04:24:19.9158-INFO Current_SessionEnding
+2024-08-25 04:24:19.9202-INFO MyAppExit Begin
+2024-08-25 04:24:21.2889-INFO MyAppExit End
+2024-08-25 10:28:03.6221-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Applications\v2rayN-With-Core\v2rayN.exe
+2024-08-25 10:29:04.4137-INFO UpdateTaskRunSubscription
+2024-08-25 10:30:04.4215-INFO UpdateTaskRunGeo
+2024-08-25 11:25:07.2982-INFO Current_SessionEnding
+2024-08-25 11:25:07.3052-INFO MyAppExit Begin
+2024-08-25 11:25:07.4521-INFO MyAppExit End
+2024-08-25 11:32:25.8132-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Applications\v2rayN-With-Core\v2rayN.exe
+2024-08-25 11:33:27.1303-INFO UpdateTaskRunSubscription
+2024-08-25 11:34:27.1309-INFO UpdateTaskRunGeo
+2024-08-25 11:34:51.5798-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 11:34:51.6129-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 11:34:52.4894-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 11:34:52.4894-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:13:14.8110-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:13:14.8110-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:02.3735-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:02.3735-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:02.3735-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:02.3735-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:02.3735-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:02.3735-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:02.3735-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:02.3735-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:02.3735-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:02.3735-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:02.3735-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:02.3735-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:02.3735-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:02.3735-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:02.3735-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:02.3735-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:02.3735-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:02.3735-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4821-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4827-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4827-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4827-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4827-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4827-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4827-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4827-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4827-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4827-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4827-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4827-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4827-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4827-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4827-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4827-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4827-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4827-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4974-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4974-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4974-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4974-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4974-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4974-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4974-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4974-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4974-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4974-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4974-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4974-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.4974-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.4974-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 12:37:47.5132-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 12:37:47.5132-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 13:07:50.7356-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 13:07:50.7356-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 13:07:54.9891-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 13:07:54.9891-DEBUG    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 18:24:44.3643-INFO v2rayN start up | v2rayN - V6.43 - 2024/08/25 | C:\Applications\v2rayN-With-Core\v2rayN.exe
+2024-08-25 18:25:45.3087-INFO UpdateTaskRunSubscription
+2024-08-25 18:26:45.1820-DEBUG 2024/08/25 18:26:44 Using default config:  C:\Applications\v2rayN-With-Core\guiConfigs\config.json
+,2024/08/25 18:26:44 Using default config:  C:\Applications\v2rayN-With-Core\guiConfigs\config.json
+
+2024-08-25 18:26:45.2251-DEBUG    at v2rayN.Handler.CoreHandler.RunProcess(ProfileItem node, CoreInfo coreInfo, String configPath, Boolean displayLog)
+2024-08-25 18:26:45.3059-INFO UpdateTaskRunGeo
+2024-08-25 18:54:44.0728-INFO MyAppExit Begin
+2024-08-25 18:54:44.1250-INFO MyAppExit End
+2024-08-25 18:54:44.1503-INFO OnExit
+2024-08-25 19:56:45.6917-INFO v2rayN start up | v2rayN - V6.43 - 2024/08/25 | C:\Applications\SpooBboy\v2rayN.exe
+2024-08-25 19:57:06.1178-INFO MyAppExit Begin
+2024-08-25 19:57:06.1754-INFO MyAppExit End
+2024-08-25 19:57:06.2233-INFO OnExit

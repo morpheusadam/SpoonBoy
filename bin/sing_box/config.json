@@ -1,0 +1,106 @@
+
+{
+"log": {
+"level": "debug",
+"timestamp": true
+},
+"dns": {
+"servers": [
+{
+"tag": "remote",
+"address": "tcp://8.8.8.8",
+"detour": "proxy"
+},
+{
+"tag": "local",
+"address": "223.5.5.5",
+"detour": "direct"
+},
+{
+"tag": "block",
+"address": "rcode://success"
+},
+{
+"tag": "local_local",
+"address": "223.5.5.5",
+"detour": "direct"
+}
+],
+"rules": [
+{
+"server": "local",
+"geosite": [
+"cn"
+]
+},
+{
+"server": "block",
+"geosite": [
+"category-ads-all"
+]
+},
+{
+"outbound": "any",
+"server": "local_local"
+}
+]
+},
+"inbounds": [
+{
+"type": "socks",
+"tag": "socks",
+"listen": "::",
+"listen_port": 2021,
+"sniff": true,
+"sniff_override_destination": true
+},
+{
+"type": "http",
+"tag": "http",
+"listen": "::",
+"listen_port": 2022,
+"sniff": true,
+"sniff_override_destination": true
+}
+],
+"outbounds": [
+{
+"type": "vmess",
+"tag": "proxy",
+"server": "a.b.c.d",
+"server_port": 56413,
+"uuid": "11111111-1111-1111-1111-111111111111",
+"security": "auto",
+"alter_id": 0
+},
+{
+"type": "direct",
+"tag": "direct"
+},
+{
+"type": "block",
+"tag": "block"
+},
+{
+"type": "dns",
+"tag": "dns_out"
+}
+],
+"route": {
+"rules": [
+{
+"outbound": "dns_out",
+"protocol": [
+"dns"
+]
+},
+{
+"outbound": "proxy",
+"port_range": [
+"0:65535"
+]
+}
+]
+}
+}
+
