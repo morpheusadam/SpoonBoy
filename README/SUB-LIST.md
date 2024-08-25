@@ -27,11 +27,13 @@
 | providers | [providers](https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/master/providers/providers) | - |
 | providers64 | [providers64](https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/master/providers/providers64) | - |
 
- ## teknovpnhub/v2ray-subscription
+## teknovpnhub/v2ray-subscription
 ### SUBSCRIPTION
 | Name | Link | Last Update |
 |------|------|-------------|
 | v2ray_subscription.txt | [v2ray_subscription.txt](https://github.com/teknovpnhub/v2ray-subscription/blob/main/v2ray_subscription.txt) | - |
+| main.txt | [main.txt](https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt) | - |
+
 
 ## firefoxmmx2/v2rayshare_subcription
 ### SUBSCRIPTION

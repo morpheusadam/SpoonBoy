@@ -62,11 +62,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "sure.iamconnected.sbs",
-            "port": 2053,
+            "address": "parsvds.ir",
+            "port": 8080,
             "users": [
               {
-                "id": "25b44465-fb20-4258-b519-8d4de16c3caf",
+                "id": "4ee50f98-d646-4491-b5a5-339fd79153a4",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -77,33 +77,10 @@
         ]
       },
       "streamSettings": {
-        "network": "tcp",
-        "tcpSettings": {
-          "header": {
-            "type": "http",
-            "request": {
-              "version": "1.1",
-              "method": "GET",
-              "path": [
-                "/"
-              ],
-              "headers": {
-                "Host": [
-                  "nobitex.com"
-                ],
-                "User-Agent": [
-                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                ],
-                "Accept-Encoding": [
-                  "gzip, deflate"
-                ],
-                "Connection": [
-                  "keep-alive"
-                ],
-                "Pragma": "no-cache"
-              }
-            }
-          }
+        "network": "httpupgrade",
+        "httpupgradeSettings": {
+          "path": "/speedtest.net?ed=512",
+          "host": "h17.Xn--gmq282ekfhyys3gs.Com."
         }
       },
       "mux": {

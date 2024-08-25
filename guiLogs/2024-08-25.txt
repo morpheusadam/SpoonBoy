@@ -441,3 +441,992 @@
    at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
    at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
 2024-08-25 20:05:05.7580-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:11:44.7254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7254-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7254-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7349-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7349-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7349-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7349-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7349-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7349-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7349-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7349-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7349-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7349-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7349-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7349-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7349-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7349-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7349-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7349-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:44.7349-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:44.7349-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4095-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4095-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4109-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4109-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4429-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:46.4429-DEBUG    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:46.4429-INFO FailedImportSubscription
+2024-08-25 20:11:46.4429-INFO vmess://eyJhZGQiOiAibW1qcDExLm1pY2xvdWQuYnV6eiIsICJhaWQiOiAiMCIsICJob3N0IjogIm1tanAxMS5taWNsb3VkLmJ1enoiLCAiaWQiOiAiNjM4NTAxZjYtMGJhMC00N2NiLWJjZmUtMjAwY2MxMTY5ZTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi96aC1jbiIsICJwb3J0IjogIjQ2MDExIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAicGdycHhld2NqcHRlc3QueW9mbmhrZmMueHl6IiwgImFpZCI6ICIwIiwgImhvc3QiOiAicGdycHhld2NqcHRlc3QueW9mbmhrZmMueHl6IiwgImlkIjogIjQwOWZlNjU0LTY1ZTQtNGZjZS1hYzlhLWZhYWZmM2QzMzRlYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmlkZW8vS2FVd2d6ZlUiLCAicG9ydCI6ICIyMDUyIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6ICIwIiwgImhvc3QiOiAicGVuZGFyLm9udGhld2lmaS5jb20iLCAiaWQiOiAiNzE2ZWRlZDYtMjIwMS00ZGJkLTlkNjMtMTYzOGM5ZThlNjc3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJwZW5kYXIub250aGV3aWZpLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9`
+vmess://eyJhZGQiOiAiZ292LnVrIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiemhlc2hpc2NwLmNvbSIsICJpZCI6ICI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzc3ODQ4ODI0IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMTA0LjE5LjUxLjIzMiIsICJhaWQiOiAiMCIsICJob3N0IjogImlwMDA1LmR0a3U0Ny54eXoiLCAiaWQiOiAiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInBvcnQiOiAiMjA4NiIsICJwcyI6ICJcdWQ4M2RcdWRlMGQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGUwZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=`
+vmess://eyJhZGQiOiAiY2ZjZG4xLnNhbmZlbmNkbjkuY29tIiwgImFpZCI6ICIwIiwgImhvc3QiOiAidXMxY1BaaXo4bmIuZnpicWZyc2UueHl6IiwgImlkIjogIjQwOWZlNjU0LTY1ZTQtNGZjZS1hYzlhLWZhYWZmM2QzMzRlYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmlkZW8vNlZCaEFrQ3RWNC8iLCAicG9ydCI6ICIyMDUyIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMTA0LjI2LjAuNTYiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJpcDE0LmZyZWVncmFkZWx5Lnh5eiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAibW1kZTkyLm1pY2xvdWQuYnV6eiIsICJhaWQiOiAiMCIsICJob3N0IjogIm1tZGU5Mi5taWNsb3VkLmJ1enoiLCAiaWQiOiAiNjM4NTAxZjYtMGJhMC00N2NiLWJjZmUtMjAwY2MxMTY5ZTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi96aC1jbiIsICJwb3J0IjogIjQ2MDkyIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAibW1oazAxLm1pY2xvdWQuYnV6eiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI2Mzg1MDFmNi0wYmEwLTQ3Y2ItYmNmZS0yMDBjYzExNjllODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3poLWNuIiwgInBvcnQiOiAiNDYwMDEiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9`
+vmess://eyJhZGQiOiAiMTA0LjE5LjM4LjYyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAibW1qcDExLm1pY2xvdWQuYnV6eiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI2Mzg1MDFmNi0wYmEwLTQ3Y2ItYmNmZS0yMDBjYzExNjllODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3poLWNuIiwgInBvcnQiOiAiNDYwMTEiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9`
+vmess://eyJhZGQiOiAibW1kZTkyLm1pY2xvdWQuYnV6eiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI2Mzg1MDFmNi0wYmEwLTQ3Y2ItYmNmZS0yMDBjYzExNjllODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3poLWNuIiwgInBvcnQiOiAiNDYwOTIiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9`
+vmess://eyJhZGQiOiAiNDIuMjM2LjczLjcyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NGYwMTc3LTA2NzUtNGRjZi04OWQ0LTgwNGI2Nzg4ZTUxOCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiaXJzb2Z0LnN5dGVzLm5ldCIsICJpZCI6ICIyZmY5N2M2ZC04NTU3LTQyYTQtYjQzZi0xOWM3N2M1OTU5ZWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0Bmb3J3YXJkdjJyYXkiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogImlyc29mdC5zeXRlcy5uZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6ICIwIiwgImhvc3QiOiAic2FoYW5kLnNlcnZlbWluZWNyYWZ0Lm5ldCIsICJpZCI6ICIxMTgyODdkMi1lOTY4LTQyZTEtODBkMC0xMmZhMmY1ZDM4ZDYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0Bmb3J3YXJkdjJyYXkiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAid3d3LmRhcmtyb29tLmxvbCIsICJhaWQiOiAiMCIsICJob3N0IjogInd3dy5kYXJrcm9vbS5sb2wiLCAiaWQiOiAiMjI4MjZiNDQtNWMxYS00YjRiLWRiYWEtODNhMmU4YmQ5NWYwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAiMCIsICJob3N0IjogInNlcnZlcjMxLmJlaGVzaHRiYW5laC5jb20iLCAiaWQiOiAiNDE1NDE0M2MtYmJiYS00N2E0LTlmNzktYzJlZDA4N2NiY2M5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4ODgwIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMTA0LjE5LjU3LjQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwODYiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9`
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ3LjEyMiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA4NiIsICJwcyI6ICJcdWQ4M2RcdWRlMGQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGUwZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=`
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ2LjM5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ3Ljc5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ2LjM2IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+
+2024-08-25 20:11:55.5592-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:55.5592-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:11:55.5592-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:11:55.5592-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:12:07.7223-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:12:07.7223-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:12:08.9948-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:12:08.9948-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:12:09.4727-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:12:09.4727-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:12:09.4727-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:12:30.7299-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:12:30.7299-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:12:30.7299-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:12:39.0298-DEBUG The operation has timed out.,The operation has timed out.
+2024-08-25 20:12:39.0298-DEBUG    at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:12:41.3029-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:12:41.3029-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:12:57.3490-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:12:57.3490-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:12:57.3490-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:13:01.0572-DEBUG TaskScheduler_UnobservedTaskException,A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (Error while copying content to a stream.)
+2024-08-25 20:13:01.0572-DEBUG 
+2024-08-25 20:13:01.0572-ERROR System.Net.Http.HttpRequestException: Error while copying content to a stream.
+2024-08-25 20:13:21.3658-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:13:21.3658-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:13:21.3658-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:13:44.1368-DEBUG ,
+2024-08-25 20:13:44.1368-DEBUG    at v2rayN.Handler.CoreHandler.RunProcess(ProfileItem node, CoreInfo coreInfo, String configPath, Boolean displayLog)
+2024-08-25 20:13:48.6741-DEBUG FATAL[0000] start service: initialize inbound/http[http10832]: listen tcp 127.0.0.1:10832: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+,FATAL[0000] start service: initialize inbound/http[http10832]: listen tcp 127.0.0.1:10832: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2024-08-25 20:13:48.6741-DEBUG    at v2rayN.Handler.CoreHandler.RunProcess(ProfileItem node, CoreInfo coreInfo, String configPath, Boolean displayLog)
+2024-08-25 20:13:52.3079-DEBUG The operation has timed out.,The operation has timed out.
+2024-08-25 20:13:52.3079-DEBUG    at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:14:18.3756-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:14:18.3756-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:14:18.3756-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:14:21.5274-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5274-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5274-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5274-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5274-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5274-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5318-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5318-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5318-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5318-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5318-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5318-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5318-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5318-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5318-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5318-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5557-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5557-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5557-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5557-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5653-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5653-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5653-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5653-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5653-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5653-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5653-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5653-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5653-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5653-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5789-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5789-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:21.5789-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:14:21.5789-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:14:48.1448-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:14:48.1448-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:14:48.1448-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:15:34.1794-DEBUG The operation has timed out.,The operation has timed out.
+2024-08-25 20:15:34.1794-DEBUG    at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:15:34.5485-DEBUG TaskScheduler_UnobservedTaskException,A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The operation has timed out.)
+2024-08-25 20:15:34.5485-DEBUG 
+2024-08-25 20:15:34.5485-ERROR System.Net.WebException: The operation has timed out.
+2024-08-25 20:16:11.2642-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:16:11.2650-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:16:11.2650-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7692-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7692-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7717-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7717-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7717-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7717-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7717-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7717-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7717-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7717-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7717-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7717-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.7717-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:16:12.7717-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:16:12.8033-INFO FailedImportSubscription
+2024-08-25 20:16:12.8033-INFO vmess://eyJhZGQiOiAibW1qcDExLm1pY2xvdWQuYnV6eiIsICJhaWQiOiAiMCIsICJob3N0IjogIm1tanAxMS5taWNsb3VkLmJ1enoiLCAiaWQiOiAiNjM4NTAxZjYtMGJhMC00N2NiLWJjZmUtMjAwY2MxMTY5ZTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi96aC1jbiIsICJwb3J0IjogIjQ2MDExIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAicGdycHhld2NqcHRlc3QueW9mbmhrZmMueHl6IiwgImFpZCI6ICIwIiwgImhvc3QiOiAicGdycHhld2NqcHRlc3QueW9mbmhrZmMueHl6IiwgImlkIjogIjQwOWZlNjU0LTY1ZTQtNGZjZS1hYzlhLWZhYWZmM2QzMzRlYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmlkZW8vS2FVd2d6ZlUiLCAicG9ydCI6ICIyMDUyIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6ICIwIiwgImhvc3QiOiAicGVuZGFyLm9udGhld2lmaS5jb20iLCAiaWQiOiAiNzE2ZWRlZDYtMjIwMS00ZGJkLTlkNjMtMTYzOGM5ZThlNjc3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJwZW5kYXIub250aGV3aWZpLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9`
+vmess://eyJhZGQiOiAiZ292LnVrIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiemhlc2hpc2NwLmNvbSIsICJpZCI6ICI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzc3ODQ4ODI0IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMTA0LjE5LjUxLjIzMiIsICJhaWQiOiAiMCIsICJob3N0IjogImlwMDA1LmR0a3U0Ny54eXoiLCAiaWQiOiAiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInBvcnQiOiAiMjA4NiIsICJwcyI6ICJcdWQ4M2RcdWRlMGQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGUwZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=`
+vmess://eyJhZGQiOiAiY2ZjZG4xLnNhbmZlbmNkbjkuY29tIiwgImFpZCI6ICIwIiwgImhvc3QiOiAidXMxY1BaaXo4bmIuZnpicWZyc2UueHl6IiwgImlkIjogIjQwOWZlNjU0LTY1ZTQtNGZjZS1hYzlhLWZhYWZmM2QzMzRlYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmlkZW8vNlZCaEFrQ3RWNC8iLCAicG9ydCI6ICIyMDUyIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMTA0LjI2LjAuNTYiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJpcDE0LmZyZWVncmFkZWx5Lnh5eiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAibW1kZTkyLm1pY2xvdWQuYnV6eiIsICJhaWQiOiAiMCIsICJob3N0IjogIm1tZGU5Mi5taWNsb3VkLmJ1enoiLCAiaWQiOiAiNjM4NTAxZjYtMGJhMC00N2NiLWJjZmUtMjAwY2MxMTY5ZTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi96aC1jbiIsICJwb3J0IjogIjQ2MDkyIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAibW1oazAxLm1pY2xvdWQuYnV6eiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI2Mzg1MDFmNi0wYmEwLTQ3Y2ItYmNmZS0yMDBjYzExNjllODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3poLWNuIiwgInBvcnQiOiAiNDYwMDEiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9`
+vmess://eyJhZGQiOiAiMTA0LjE5LjM4LjYyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAibW1qcDExLm1pY2xvdWQuYnV6eiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI2Mzg1MDFmNi0wYmEwLTQ3Y2ItYmNmZS0yMDBjYzExNjllODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3poLWNuIiwgInBvcnQiOiAiNDYwMTEiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9`
+vmess://eyJhZGQiOiAibW1kZTkyLm1pY2xvdWQuYnV6eiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI2Mzg1MDFmNi0wYmEwLTQ3Y2ItYmNmZS0yMDBjYzExNjllODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3poLWNuIiwgInBvcnQiOiAiNDYwOTIiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9`
+vmess://eyJhZGQiOiAiNDIuMjM2LjczLjcyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NGYwMTc3LTA2NzUtNGRjZi04OWQ0LTgwNGI2Nzg4ZTUxOCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiaXJzb2Z0LnN5dGVzLm5ldCIsICJpZCI6ICIyZmY5N2M2ZC04NTU3LTQyYTQtYjQzZi0xOWM3N2M1OTU5ZWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0Bmb3J3YXJkdjJyYXkiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogImlyc29mdC5zeXRlcy5uZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6ICIwIiwgImhvc3QiOiAic2FoYW5kLnNlcnZlbWluZWNyYWZ0Lm5ldCIsICJpZCI6ICIxMTgyODdkMi1lOTY4LTQyZTEtODBkMC0xMmZhMmY1ZDM4ZDYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0Bmb3J3YXJkdjJyYXkiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAid3d3LmRhcmtyb29tLmxvbCIsICJhaWQiOiAiMCIsICJob3N0IjogInd3dy5kYXJrcm9vbS5sb2wiLCAiaWQiOiAiMjI4MjZiNDQtNWMxYS00YjRiLWRiYWEtODNhMmU4YmQ5NWYwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAiMCIsICJob3N0IjogInNlcnZlcjMxLmJlaGVzaHRiYW5laC5jb20iLCAiaWQiOiAiNDE1NDE0M2MtYmJiYS00N2E0LTlmNzktYzJlZDA4N2NiY2M5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4ODgwIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMTA0LjE5LjU3LjQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwODYiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9`
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ3LjEyMiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA4NiIsICJwcyI6ICJcdWQ4M2RcdWRlMGQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGUwZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=`
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ2LjM5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ3Ljc5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ2LjM2IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==`
+
+2024-08-25 20:16:38.2602-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:16:38.2602-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:16:38.2602-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:17:05.6261-DEBUG Process with an Id of 16996 is not running.,Process with an Id of 16996 is not running.
+2024-08-25 20:17:05.6261-DEBUG    at System.Diagnostics.Process.GetProcessById(Int32 processId, String machineName)
+   at v2rayN.Handler.CoreHandler.CoreStopPid(Int32 pid)
+2024-08-25 20:17:08.2806-DEBUG The operation has timed out.,The operation has timed out.
+2024-08-25 20:17:08.2806-DEBUG    at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:17:34.0054-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:17:34.0054-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:17:34.0054-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:18:00.5504-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:18:00.5504-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:18:00.5504-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:18:21.3380-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:18:21.3380-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:18:21.3380-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:19:29.3017-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:19:29.3017-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:19:29.3017-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:20:03.3403-DEBUG The operation has timed out.,The operation has timed out.
+2024-08-25 20:20:03.3413-DEBUG    at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:20:08.8017-DEBUG TaskScheduler_UnobservedTaskException,A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The SSL connection could not be established, see inner exception.)
+2024-08-25 20:20:08.8017-DEBUG 
+2024-08-25 20:20:08.8017-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:20:25.5933-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:20:25.5933-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:20:25.5933-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:20:58.0507-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:20:58.0656-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:20:58.0656-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:21:26.2527-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:21:26.2527-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:21:26.2527-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:21:56.2619-DEBUG The operation has timed out.,The operation has timed out.
+2024-08-25 20:21:56.2619-DEBUG    at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:22:36.7593-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:22:36.7593-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:22:36.7593-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:23:05.2423-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:23:05.2423-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:23:05.2423-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:23:35.2574-DEBUG The operation has timed out.,The operation has timed out.
+2024-08-25 20:23:35.2574-DEBUG    at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:24:03.6060-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:24:03.6060-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:24:03.6060-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:24:04.5508-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:04.5508-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:04.5508-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:04.5508-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:08.3615-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:08.3615-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.0333-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.0333-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.0999-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.0999-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1085-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1085-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1085-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1085-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1085-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1085-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1085-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1085-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1085-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1085-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1085-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1085-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1085-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1085-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1172-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1172-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1172-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1172-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1348-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1348-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1348-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1348-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1348-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1348-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1348-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1348-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1697-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1697-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1697-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1697-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1697-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1697-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1697-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1697-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1877-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1877-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1877-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1877-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1877-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1877-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1877-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1877-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1965-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1965-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.1965-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.1965-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2191-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2191-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2191-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2191-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2191-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2191-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:09.2262-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:09.2262-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:11.8635-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:11.8635-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:12.5178-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:12.5178-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.2628-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.2628-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.2909-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.2909-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.2989-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.2989-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.2989-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.2989-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.2989-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.2989-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.2989-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.2989-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.2989-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.2989-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.2989-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.2989-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.2989-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.2989-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.2989-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.2989-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3227-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3227-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3227-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3227-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3301-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3301-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3301-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3301-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3301-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3301-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3444-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3444-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3444-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3444-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3444-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3444-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3444-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3444-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3862-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3862-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3862-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3862-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3862-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3862-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3862-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3862-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3980-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3980-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.3980-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.3980-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4313-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4313-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4313-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4313-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4313-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4313-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:13.4391-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:13.4391-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:15.7976-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:24:15.7976-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:24:30.7754-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:24:30.7754-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:24:30.7754-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:24:58.9054-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:24:58.9054-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:24:58.9054-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:25:19.6802-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:25:19.6802-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:25:19.6802-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:25:56.7788-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:25:56.7788-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:25:56.7788-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:26:19.1856-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:26:19.1856-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:26:19.1856-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:26:49.0945-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:26:49.0945-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:26:49.0945-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:27:27.9879-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:27:27.9879-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:27:27.9879-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:27:53.9097-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:27:53.9097-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:27:53.9097-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:28:14.8706-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:28:14.8706-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:28:14.8706-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:28:16.1554-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:28:16.1554-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:28:42.8047-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:28:42.8047-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:28:42.8047-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:29:12.7936-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:29:12.7936-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:29:12.7936-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:29:38.2726-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:29:38.2726-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:29:38.2726-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:29:39.6100-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:29:39.6100-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:30:07.5105-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:30:07.5105-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:30:07.5105-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:30:37.5167-DEBUG The operation has timed out.,The operation has timed out.
+2024-08-25 20:30:37.5167-DEBUG    at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:31:01.8458-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:31:01.8458-DEBUG    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.GetWebResponseTaskAsync(WebRequest request)
+   at System.Net.WebClient.DownloadBitsAsync(WebRequest request, Stream writeStream, AsyncOperation asyncOp, Action`3 completionDelegate)
+   at v2rayN.Handler.DownloadHandle.TryDownloadString(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:31:01.8458-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+2024-08-25 20:31:31.8483-DEBUG The operation has timed out.,The operation has timed out.
+2024-08-25 20:31:31.8483-DEBUG    at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:31:34.0701-DEBUG Base64Decode,The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+2024-08-25 20:31:34.0701-DEBUG    at v2rayN.Utils.Base64Decode(String plainText)
+2024-08-25 20:33:56.1831-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:33:56.1831-DEBUG    at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at v2rayN.HttpClientHelper.GetAsync(HttpClient client, String url, CancellationToken token)
+   at v2rayN.Handler.DownloadHandle.DownloadStringAsync(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:33:56.1831-ERROR System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+2024-08-25 20:34:06.3367-DEBUG The SSL connection could not be established, see inner exception.,The SSL connection could not be established, see inner exception.
+2024-08-25 20:34:06.3367-DEBUG    at v2rayN.DownloaderHelper.<>c.<DownloadStringAsync>b__3_0(Object sender, AsyncCompletedEventArgs value)
+   at Downloader.DownloadService.OnDownloadFileCompleted(AsyncCompletedEventArgs e) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 387
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 214
+   at Downloader.DownloadService.StartDownload() in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 219
+   at Downloader.DownloadService.DownloadFileTaskAsync(String address, CancellationToken cancellationToken) in D:\Programming\Personal\Downloader\src\Downloader\DownloadService.cs:line 89
+   at v2rayN.DownloaderHelper.DownloadStringAsync(IWebProxy webProxy, String url, String userAgent, Int32 timeout)
+   at v2rayN.Handler.DownloadHandle.DownloadStringViaDownloader(String url, Boolean blProxy, String userAgent)
+2024-08-25 20:34:06.3367-ERROR System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.

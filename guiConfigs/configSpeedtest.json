@@ -6,56 +6,158 @@
   },
   "inbounds": [
     {
-      "tag": "http10829",
-      "port": 10829,
+      "tag": "http10947",
+      "port": 10947,
       "listen": "127.0.0.1",
       "protocol": "http"
     },
     {
-      "tag": "http10830",
-      "port": 10830,
+      "tag": "http10948",
+      "port": 10948,
       "listen": "127.0.0.1",
       "protocol": "http"
     },
     {
-      "tag": "http10831",
-      "port": 10831,
+      "tag": "http10949",
+      "port": 10949,
       "listen": "127.0.0.1",
       "protocol": "http"
     },
     {
-      "tag": "http10832",
-      "port": 10832,
+      "tag": "http10950",
+      "port": 10950,
       "listen": "127.0.0.1",
       "protocol": "http"
     },
     {
-      "tag": "http10833",
-      "port": 10833,
+      "tag": "http10951",
+      "port": 10951,
       "listen": "127.0.0.1",
       "protocol": "http"
     },
     {
-      "tag": "http10834",
-      "port": 10834,
+      "tag": "http10952",
+      "port": 10952,
       "listen": "127.0.0.1",
       "protocol": "http"
     },
     {
-      "tag": "http10835",
-      "port": 10835,
+      "tag": "http10953",
+      "port": 10953,
       "listen": "127.0.0.1",
       "protocol": "http"
     },
     {
-      "tag": "http10836",
-      "port": 10836,
+      "tag": "http10955",
+      "port": 10955,
       "listen": "127.0.0.1",
       "protocol": "http"
     },
     {
-      "tag": "http10837",
-      "port": 10837,
+      "tag": "http10957",
+      "port": 10957,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10958",
+      "port": 10958,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10960",
+      "port": 10960,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10961",
+      "port": 10961,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10962",
+      "port": 10962,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10963",
+      "port": 10963,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10964",
+      "port": 10964,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10965",
+      "port": 10965,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10966",
+      "port": 10966,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10967",
+      "port": 10967,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10968",
+      "port": 10968,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10969",
+      "port": 10969,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10970",
+      "port": 10970,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10971",
+      "port": 10971,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10972",
+      "port": 10972,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10973",
+      "port": 10973,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10974",
+      "port": 10974,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    },
+    {
+      "tag": "http10975",
+      "port": 10975,
       "listen": "127.0.0.1",
       "protocol": "http"
     }
@@ -76,16 +178,16 @@
       }
     },
     {
-      "tag": "proxy10829",
+      "tag": "proxy10947",
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "sure.iamconnected.sbs",
-            "port": 2053,
+            "address": "94.182.222.13",
+            "port": 932,
             "users": [
               {
-                "id": "25b44465-fb20-4258-b519-8d4de16c3caf",
+                "id": "189dfeca-ffd8-40c2-bc81-8b084da66ce0",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -108,7 +210,7 @@
               ],
               "headers": {
                 "Host": [
-                  "nobitex.com"
+                  "zula.ir"
                 ],
                 "User-Agent": [
                   "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -131,16 +233,16 @@
       }
     },
     {
-      "tag": "proxy10830",
+      "tag": "proxy10948",
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "joinmahdiserver-857.pages.dev",
-            "port": 2053,
+            "address": "94.182.222.13",
+            "port": 932,
             "users": [
               {
-                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                "id": "189dfeca-ffd8-40c2-bc81-8b084da66ce0",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -151,23 +253,32 @@
         ]
       },
       "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "joinMAHDisERVeR-857.PAGes.dEv",
-          "alpn": [
-            "h2",
-            "http/1.1"
-          ],
-          "fingerprint": "randomized",
-          "show": false
-        },
-        "wsSettings": {
-          "path": "/XU7bkJxPm2kQLM3z?ed=2560",
-          "headers": {
-            "Host": "joinMaHDIseRver-857.pageS.dev",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "http",
+            "request": {
+              "version": "1.1",
+              "method": "GET",
+              "path": [
+                "/"
+              ],
+              "headers": {
+                "Host": [
+                  "zula.ir"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                ],
+                "Accept-Encoding": [
+                  "gzip, deflate"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Pragma": "no-cache"
+              }
+            }
           }
         }
       },
@@ -177,7 +288,119 @@
       }
     },
     {
-      "tag": "proxy10831",
+      "tag": "proxy10949",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "18.153.233.51",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10950",
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "167.172.111.237",
+            "method": "2022-blake3-aes-256-gcm",
+            "ota": false,
+            "password": "kOdpmwTjKPgOUSO7Q7cAOJ/\u002BpzPRxXAb3N97X2IFpkM=:mS764U6UqgPqRGVQudusMEo7ztkFXOLuIsW47j8zp04=",
+            "port": 21108,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp"
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10951",
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "167.172.111.237",
+            "method": "2022-blake3-aes-256-gcm",
+            "ota": false,
+            "password": "kOdpmwTjKPgOUSO7Q7cAOJ/\u002BpzPRxXAb3N97X2IFpkM=:mS764U6UqgPqRGVQudusMEo7ztkFXOLuIsW47j8zp04=",
+            "port": 21108,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp"
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10952",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "15.237.230.107",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10953",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -205,91 +428,22 @@
       }
     },
     {
-      "tag": "proxy10832",
-      "protocol": "trojan",
+      "tag": "proxy10955",
+      "protocol": "vless",
       "settings": {
-        "servers": [
+        "vnext": [
           {
-            "address": "104.18.26.94",
-            "method": "chacha20",
-            "ota": false,
-            "password": "Watashi_VPN",
-            "port": 8443,
-            "level": 1
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "t-watashi-r-jacket-o-people-jan.watashi-java.ir",
-          "fingerprint": "chrome",
-          "show": false
-        },
-        "wsSettings": {
-          "path": "/",
-          "headers": {
-            "Host": "t-watashi-r-jacket-o-people-jan.watashi-java.ir",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-          }
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy10833",
-      "protocol": "trojan",
-      "settings": {
-        "servers": [
-          {
-            "address": "104.17.147.22",
-            "method": "chacha20",
-            "ota": false,
-            "password": "Watashi_VPN",
+            "address": "193.228.91.59",
             "port": 443,
-            "level": 1
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "t-watashi-r-jacket-o-people-jan.watashi-java.ir",
-          "fingerprint": "chrome",
-          "show": false
-        },
-        "wsSettings": {
-          "path": "/",
-          "headers": {
-            "Host": "t-watashi-r-jacket-o-people-jan.watashi-java.ir",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-          }
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy10834",
-      "protocol": "shadowsocks",
-      "settings": {
-        "servers": [
-          {
-            "address": "api.namasha.co",
-            "method": "chacha20-ietf-poly1305",
-            "ota": false,
-            "password": "u17T3BvpYaaiuW2c",
-            "port": 443,
-            "level": 1
+            "users": [
+              {
+                "id": "2a07fda6-b02a-443f-a088-7ee9482544c5",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
           }
         ]
       },
@@ -302,16 +456,16 @@
       }
     },
     {
-      "tag": "proxy10835",
+      "tag": "proxy10957",
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "www.speedtest.net",
-            "port": 2053,
+            "address": "193.228.91.59",
+            "port": 443,
             "users": [
               {
-                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                "id": "2a07fda6-b02a-443f-a088-7ee9482544c5",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -322,23 +476,154 @@
         ]
       },
       "streamSettings": {
-        "network": "ws",
+        "network": "tcp"
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10958",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "193.228.91.59",
+            "port": 443,
+            "users": [
+              {
+                "id": "2a07fda6-b02a-443f-a088-7ee9482544c5",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp"
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10960",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "3.98.83.50",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-directvpn",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "MahDIserveR-aSl.PageS.dev",
+          "serverName": "trojan.burgerip.co.uk",
           "alpn": [
-            "h2",
             "http/1.1"
           ],
-          "fingerprint": "randomized",
+          "fingerprint": "firefox",
           "show": false
-        },
-        "wsSettings": {
-          "path": "/fU2YMWiSrI36X2Nv?ed=2560",
-          "headers": {
-            "Host": "mAhDiSerVer-AsL.PAgES.Dev",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10961",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "13.37.177.207",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-directvpn",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10962",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "94.182.222.13",
+            "port": 932,
+            "users": [
+              {
+                "id": "189dfeca-ffd8-40c2-bc81-8b084da66ce0",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "http",
+            "request": {
+              "version": "1.1",
+              "method": "GET",
+              "path": [
+                "/"
+              ],
+              "headers": {
+                "Host": [
+                  "zula.ir"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                ],
+                "Accept-Encoding": [
+                  "gzip, deflate"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Pragma": "no-cache"
+              }
+            }
           }
         }
       },
@@ -348,16 +633,16 @@
       }
     },
     {
-      "tag": "proxy10836",
+      "tag": "proxy10963",
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "104.18.59.70",
-            "port": 2053,
+            "address": "94.182.222.13",
+            "port": 932,
             "users": [
               {
-                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                "id": "189dfeca-ffd8-40c2-bc81-8b084da66ce0",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -368,23 +653,32 @@
         ]
       },
       "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "MaHdisErVEr-asl.pAGEs.DEv",
-          "alpn": [
-            "h2",
-            "http/1.1"
-          ],
-          "fingerprint": "randomized",
-          "show": false
-        },
-        "wsSettings": {
-          "path": "/9wUhFMKgsGMqAUO6?ed=2560",
-          "headers": {
-            "Host": "mAHdIserveR-asL.paGES.dEv",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "http",
+            "request": {
+              "version": "1.1",
+              "method": "GET",
+              "path": [
+                "/"
+              ],
+              "headers": {
+                "Host": [
+                  "zula.ir"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                ],
+                "Accept-Encoding": [
+                  "gzip, deflate"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Pragma": "no-cache"
+              }
+            }
           }
         }
       },
@@ -394,44 +688,394 @@
       }
     },
     {
-      "tag": "proxy10837",
-      "protocol": "vless",
+      "tag": "proxy10964",
+      "protocol": "trojan",
       "settings": {
-        "vnext": [
+        "servers": [
           {
-            "address": "joinmahdiserver-857.pages.dev",
-            "port": 8443,
-            "users": [
-              {
-                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none"
-              }
-            ]
+            "address": "18.198.45.133",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
           }
         ]
       },
       "streamSettings": {
-        "network": "ws",
+        "network": "tcp",
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "joiNMAhdiseRvEr-857.PAGeS.deV",
+          "serverName": "trojan.burgerip.co.uk",
           "alpn": [
-            "h2",
             "http/1.1"
           ],
-          "fingerprint": "randomized",
+          "fingerprint": "firefox",
           "show": false
-        },
-        "wsSettings": {
-          "path": "/xOAmsj7uVM5y2ZwY?ed=2560",
-          "headers": {
-            "Host": "jOInMahDIseRVer-857.pAGES.Dev",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10965",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "18.171.91.152",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
           }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10966",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "54.73.169.86",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10967",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "3.72.170.238",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10968",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "18.199.3.16",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10969",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "54.73.169.86",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10970",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "3.72.170.238",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10971",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "18.199.3.16",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10972",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "13.37.207.66",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10973",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "3.248.65.238",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10974",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "3.248.65.238",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "proxy10975",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "13.37.207.66",
+            "method": "chacha20",
+            "ota": false,
+            "password": "telegram-id-privatevpns",
+            "port": 22222,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "trojan.burgerip.co.uk",
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "firefox",
+          "show": false
         }
       },
       "mux": {
@@ -453,65 +1097,184 @@
       {
         "type": "field",
         "inboundTag": [
-          "http10829"
+          "http10947"
         ],
-        "outboundTag": "proxy10829"
+        "outboundTag": "proxy10947"
       },
       {
         "type": "field",
         "inboundTag": [
-          "http10830"
+          "http10948"
         ],
-        "outboundTag": "proxy10830"
+        "outboundTag": "proxy10948"
       },
       {
         "type": "field",
         "inboundTag": [
-          "http10831"
+          "http10949"
         ],
-        "outboundTag": "proxy10831"
+        "outboundTag": "proxy10949"
       },
       {
         "type": "field",
         "inboundTag": [
-          "http10832"
+          "http10950"
         ],
-        "outboundTag": "proxy10832"
+        "outboundTag": "proxy10950"
       },
       {
         "type": "field",
         "inboundTag": [
-          "http10833"
+          "http10951"
         ],
-        "outboundTag": "proxy10833"
+        "outboundTag": "proxy10951"
       },
       {
         "type": "field",
         "inboundTag": [
-          "http10834"
+          "http10952"
         ],
-        "outboundTag": "proxy10834"
+        "outboundTag": "proxy10952"
       },
       {
         "type": "field",
         "inboundTag": [
-          "http10835"
+          "http10953"
         ],
-        "outboundTag": "proxy10835"
+        "outboundTag": "proxy10953"
       },
       {
         "type": "field",
         "inboundTag": [
-          "http10836"
+          "http10955"
         ],
-        "outboundTag": "proxy10836"
+        "outboundTag": "proxy10955"
       },
       {
         "type": "field",
         "inboundTag": [
-          "http10837"
+          "http10957"
         ],
-        "outboundTag": "proxy10837"
+        "outboundTag": "proxy10957"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10958"
+        ],
+        "outboundTag": "proxy10958"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10960"
+        ],
+        "outboundTag": "proxy10960"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10961"
+        ],
+        "outboundTag": "proxy10961"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10962"
+        ],
+        "outboundTag": "proxy10962"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10963"
+        ],
+        "outboundTag": "proxy10963"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10964"
+        ],
+        "outboundTag": "proxy10964"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10965"
+        ],
+        "outboundTag": "proxy10965"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10966"
+        ],
+        "outboundTag": "proxy10966"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10967"
+        ],
+        "outboundTag": "proxy10967"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10968"
+        ],
+        "outboundTag": "proxy10968"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10969"
+        ],
+        "outboundTag": "proxy10969"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10970"
+        ],
+        "outboundTag": "proxy10970"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10971"
+        ],
+        "outboundTag": "proxy10971"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10972"
+        ],
+        "outboundTag": "proxy10972"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10973"
+        ],
+        "outboundTag": "proxy10973"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10974"
+        ],
+        "outboundTag": "proxy10974"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10975"
+        ],
+        "outboundTag": "proxy10975"
       }
     ]
   }
