@@ -84,7 +84,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REZDMVJFTEFZLTE3Mi42Ny4yMDQu
 
 vless://31c043d8-ae3b-4738-86f6-8041ce78e140@expro.venzili.ir:17719?encryption=none&security=none&type=tcp&headerType=http#TooshVPN%E2%9B%93%EF%B8%8F%E2%80%8D%F0%9F%92%A5~Server1
 
-vless://31c043d8-ae3b-4738-86f6-8041ce78e140@expro.venzili.ir:17719?encryption=none&security=none&type=tcp&headerType=http#TooshVPN%E2%9B%93%EF%B8%8F%E2%80%8D%F0%9F%92%A5~Server1
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REZDMVJFTEFZLTEwNC4yMS44My4yMDgtNDg3MyIsDQogICJhZGQiOiAiMTA0LjIxLjgzLjIwOCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAiYXV0byIsDQogICJob3N0IjogImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwNCiAgInBhdGgiOiAiL2xpbmt3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
 ```
