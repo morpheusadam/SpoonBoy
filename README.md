@@ -73,6 +73,8 @@ The list of applications needed for creating and using v2ray configuration is av
 - [Chinese](README/README_ZH.md)
 - [Persian](README/README_FA.md)
 
-### Contacts
-- [LinkedIn](https://www.linkedin.com/in/hesam-ahmadpour)
-- [Telegram](https://t.me/morpheusadam)
+## 📞 Contact Me
+<div align="center">
+    <a href="https://www.linkedin.com/in/hesam-ahmadpour" style="color: red; font-size: 20px; text-decoration: none;">LinkedIn</a> |
+    <a href="https://t.me/morpheusadam" style="color: red; font-size: 20px; text-decoration: none;">Telegram</a>
+</div>
